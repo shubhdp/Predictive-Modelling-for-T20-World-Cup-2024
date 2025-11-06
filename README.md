@@ -119,12 +119,6 @@ The output will display the **predicted winner** based on the trained model.
 
 ---
 
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgements
 
 * Historical cricket datasets.
